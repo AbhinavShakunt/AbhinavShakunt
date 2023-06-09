@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhishakunt@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m2dTO38cWI1z9WPgsx8fpSzVT4GC0rkb/view?usp=sharing](https://drive.google.com/file/d/1m2dTO38cWI1z9WPgsx8fpSzVT4GC0rkb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1m2dTO38cWI1z9WPgsx8fpSzVT4GC0rkb/view?usp=sharing](https://drive.google.com/file/d/m2dTO38cWI1z9WPgsx8fpSzVT4GC0rkb/view?usp=sharin)
 
 - ⚡ Fun fact **I'm challenging fashion norms one unmatched pair at a time.**
 
