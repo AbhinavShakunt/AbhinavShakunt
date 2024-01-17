@@ -1,7 +1,7 @@
 [![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Abhinav Shakunt</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right"alt="coding" width="300" src="![200w](https://github.com/AbhinavShakunt/AbhinavShakunt/assets/89520262/c841d44e-e2cd-41d3-8889-17d0f6e4882c)">
+<img align="right"alt="coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFvZzl5MHRrbW96NXc3Nmc4M2lmOGdhNjIwYWh6NWtuMjJ4aGtucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixYItT9PXRl9f2RqjJ/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavshakunt&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavshakunt" /> </p>
 
